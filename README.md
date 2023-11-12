@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/prnv30/](https://www.linkedin.com/in/prnv30/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left"><a href="#">&#x200B;</a>Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -72,7 +72,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prnv30&show_icons=true&locale=en&layout=compact" alt="prnv30" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"><a href="#">&#x200B;</a>Connect with me:</h2>
 <p align="left">
 <a href="mailto:panavbs30@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/prnv30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prnv30" height="35" width="40" /></a>
