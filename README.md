@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45"/>, I'm Pranav Bhagat</h1>
+
 <h3 align="center">Enthusiastic about DevOps and Backend Development, I have a keen interest in Distributed Systems and Cloud Native Infrastructure.</h3>
 
 - 💬 Ask me about **Django, Backend Development, Devops, Microservice Architecture, Distributed Systems, Cloud Infrastructure**
