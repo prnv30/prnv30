@@ -4,7 +4,7 @@
 
 
 - 💬 Ask me about **Django, Backend Development, Devops, Microservice Architecture, Distributed Systems, Cloud Infrastructure**
-
+- 🌱 I’m currently exploring [Kubernetes](https://kubernetes.io/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/prnv30/](https://www.linkedin.com/in/prnv30/)
 
 
